@@ -2,7 +2,7 @@
 Ideas for future projects (MAYBE)
 
 ## SmartWindow ##
-![alt text](https://github.com/judo347/Inspiration/blob/master/img/concept.png "concept")
+What is this game. ![alt text](https://github.com/judo347/Inspiration/blob/master/img/concept.png "concept")
 
 
 
