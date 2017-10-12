@@ -17,6 +17,7 @@ Resources:
 
 ## Pringles can as remote pc ##
 The idea comes from the series Mr. Robot where he uses a Raspberry Pi inside a Pringles can as a remote device that he can connect to and preform hacks from.
-- Has to be wraped in tape, to be waterproff
+- Has to be wraped in tape, to be waterproof
 - 3G
 - Linux
+- Has to have wifi
