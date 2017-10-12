@@ -3,6 +3,7 @@ Ideas for future projects (MAYBE)
 
 ## MinitoringWindow ##
 ![alt text](https://github.com/judo347/Inspiration/blob/master/img/concept.png "concept")
+
 A window that can stay open and will monitor a set list of PoE Charactors.
 Porsible expansions:
  - Ping to google (minitor network connection)
