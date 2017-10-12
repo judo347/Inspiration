@@ -1,6 +1,16 @@
 # Inspiration
 Ideas for future projects (MAYBE)
 
+## 2D game in C (SDL 2) ##
+Code a 2D game in c using SDL 2.
+
+## Pringles can as remote pc ##
+The idea comes from the series Mr. Robot where he uses a Raspberry Pi inside a Pringles can as a remote device that he can connect to and preform hacks from.
+- Has to be wraped in tape, to be waterproof
+- 3G
+- Linux
+- Has to have wifi
+
 ## MinitoringWindow ##
 ![alt text](https://github.com/judo347/Inspiration/blob/master/img/concept.png "concept")
 
@@ -13,11 +23,3 @@ Porsible expansions:
  
 Resources:
  - JSON-from PoE
-
-
-## Pringles can as remote pc ##
-The idea comes from the series Mr. Robot where he uses a Raspberry Pi inside a Pringles can as a remote device that he can connect to and preform hacks from.
-- Has to be wraped in tape, to be waterproof
-- 3G
-- Linux
-- Has to have wifi
