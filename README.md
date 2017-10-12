@@ -2,7 +2,6 @@
 Ideas for future projects (MAYBE)
 
 ## SmartWindow ##
-Inline-style: 
 ![alt text](https://github.com/judo347/Inspiration/blob/master/img/concept.png "concept")
 
 
