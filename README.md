@@ -1,6 +1,10 @@
 # Inspiration
 Ideas for future projects (MAYBE)
 
+## Calender ##
+Some type of calender where i am the master.
+It has to be simple and the duration and start time of events has to be in focus.
+
 ## 2D game in C (SDL 2) ##
 Code a 2D game in c using SDL 2.
 
