@@ -1,6 +1,10 @@
 # Inspiration
 Ideas for future projects (MAYBE)
 
+## PoE: Chaos Recipe ###
+Chaos recipe window:
+Window that is clickable and can count the number of items i have for the recipe.
+
 ## Calender ##
 Some type of calender where i am the master.
 It has to be simple and the duration and start time of events has to be in focus.
