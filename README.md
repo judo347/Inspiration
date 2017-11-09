@@ -1,6 +1,10 @@
 # Inspiration
 Ideas for future projects (MAYBE)
 
+## PoE: Trade history ##
+Make a program that can take the input "@IgnatSilik Hi, I would like to buy your A Forest of False Idols listed for 14 chaos in Standard" and split + save to file for later use.
+Creating a txt-file that contains my trade history... so every time i buy or sell, i will paste det whisper into my program and it will save the deal. This helps me value the items when i sell them at a later date.
+
 ## PoE: Chaos Recipe ###
 Chaos recipe window:
 Window that is clickable and can count the number of items i have for the recipe.
