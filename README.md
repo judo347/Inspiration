@@ -29,6 +29,8 @@ The idea comes from the series Mr. Robot where he uses a Raspberry Pi inside a P
 - Has to have wifi
 
 ## MinitoringWindow ##
+[ [Link to repository](https://github.com/judo347/Small_Projects/tree/master/PoE-%20CharMonitor) ][Current Status: only information]
+
 ![alt text](https://github.com/judo347/Inspiration/blob/master/img/concept.png "concept")
 
 A window that can stay open and will monitor a set list of PoE Charactors.
