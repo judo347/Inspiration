@@ -2,7 +2,7 @@
 Ideas for future projects (MAYBE)
 
 ## Working as one ##
-The purpose of this program/programs is to test the possibilities of C. 
+The purpose of this program/programs is to test the possibilities of C. The idear is to make multiple cmd from a single or more c program(s), and get them to work together.
 
 ## Discord: A Status Bot ##
 A bot start reads the chat, and on "/afk" eller "/bk" skal den tilføje folk til en afk liste og fjerne dem hvis de er afk og skriver. Brugere skal kunne skrive "/status" og få vist om folk er afk eller online :)
