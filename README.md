@@ -3,7 +3,7 @@ Ideas for future projects (MAYBE)
 
 ## LabBot ##
 Make a program that finds the optimal path through a lab. 
-![alt text](https://github.com/judo347/Inspiration/blob/master/img/pathFinding.png "concept")
+![alt text](https://github.com/judo347/Inspiration/blob/master/img/pathFinding.PNG "concept")
 
 ## Working as one ##
 The purpose of this program/programs is to test the possibilities of C. The idear is to make multiple cmd from a single or more c program(s), and get them to work together.
