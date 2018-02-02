@@ -1,6 +1,9 @@
 # Inspiration #
 Ideas for future projects (MAYBE)
 
+## Path of Exile Map Bot ##
+Make a map farming bot for PoE
+
 ## LabBot ##
 Make a program that finds the optimal path through a lab. 
 ![alt text](https://github.com/judo347/Inspiration/blob/master/img/pathFinding.PNG "concept")
