@@ -1,6 +1,9 @@
 # Inspiration #
 Ideas for future projects (MAYBE)
 
+## Supaplex bot (AI) ##
+
+
 ## Path of Exile Map Bot ##
 Make a map farming bot for PoE
 
