@@ -1,6 +1,9 @@
 # Inspiration #
 Ideas for future projects (MAYBE)
 
+## Grejliste ##
+Program der tager input og viser pakke listen.
+
 ## Supaplex bot (AI) ##
 
 
