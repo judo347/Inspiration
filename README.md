@@ -2,7 +2,9 @@
 Ideas for future projects (MAYBE)
 
 ## Grejliste ##
+[ [Link to repository](https://github.com/judo347/GearListProject) ][Current Status: Base is done but needs improvement!]
 Program der tager input og viser pakke listen.
+
 
 ## Supaplex bot (AI) ##
 
