@@ -1,6 +1,9 @@
 # Inspiration #
 Ideas for future projects (MAYBE)
 
+## PoE: Stash overveiw ##
+Program der bruger PoE json API til at vise ens stash tabs.. og danne et billede af det. Her skal man kunne lave noter / grupperer ting? m.m.??
+
 ## Grejliste ##
 [ [Link to repository](https://github.com/judo347/GearListProject) ][Current Status: Base is done but needs improvement!]
 
