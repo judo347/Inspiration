@@ -36,6 +36,8 @@ Creating a txt-file that contains my trade history... so every time i buy or sel
 Chaos recipe window:
 Window that is clickable and can count the number of items i have for the recipe.
 
+Upgrade to get data directly from the tab and show complete sets. (using JSON)
+
 ## Calender ##
 Some type of calender where i am the master.
 It has to be simple and the duration and start time of events has to be in focus.
